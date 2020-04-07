@@ -1,1 +1,1 @@
-az group create -location westindia -n "devops-rg"
+az group create -l westindia -n "devops-rg"
